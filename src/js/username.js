@@ -1,4 +1,4 @@
-import "../styles.css";
+
 
 const nameInput = document.getElementById("username");
 const nameSubmit = document.getElementById("nameSubmit");

@@ -3,7 +3,7 @@ const image1 = () => {
     "url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/snow-covered-pine-trees-on-sunset-royalty-free-image-615101076-1541521490.jpg?crop=0.670xw:1.00xh;0.330xw,0&resize=480:*')";
   document.body.style.backgroundRepeat = "no-repeat";
   document.body.style.backgroundSize = "cover";
-  document.body.style.color = "#5F0EE0";
+  document.body.style.color = "white";
 };
 
 const image2 = () => {
