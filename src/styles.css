@@ -1,0 +1,11 @@
+body {
+  font-family: fantasy;
+  color: white;
+  font-size: 20px;
+  margin: 0;
+  height: 100vh;
+}
+
+#js-clock {
+  font-size: 100px;
+}
